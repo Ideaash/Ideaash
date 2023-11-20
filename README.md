@@ -8,9 +8,8 @@
 
 
 
-- 🔭 I’m currently working on **Vexa Web App**
 
-- 🌱 I’m currently learning **Software engineer**
+- 🌱 I’m currently **Software engineer**
 
 - 💬 Ask me about **Java, Javascript, TypeScript**
 
